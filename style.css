@@ -1,0 +1,151 @@
+body {
+    background-color: rgba(235, 156, 215, 0.836);
+    margin: 0;
+   }
+
+    #menu {
+        background-color: #d89fcef5;
+        width: 300px;
+        height: 1000px;
+        text-align: center;
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.767);
+        
+    }
+
+    .logo {
+        width: 200px;
+        border: 7px solid #030003;
+        border-radius: 50%;
+        margin-top: 50px;
+        
+     }
+
+     h1 {
+        font-size: 1.5rem;
+        COLOR: #fffbfb;
+        font-family: serifadas ;
+     }
+
+     h2 {
+        font-size:1.5rem ;
+        color: #ffffff;
+        font-family: serifadas;
+     }
+
+     .links {
+      text-decoration: none;
+      background-color: #cf62c6;
+      color: #fff;
+      font-size: 1.5rem;
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      padding: 1rem; 
+      transition: all 0.7s ease;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ;
+     }
+
+     .links:hover {
+      background-color: #db7cb3;
+      color: #fff;
+     }
+
+     header {
+      float: left;
+      padding: 0rem;
+      margin: -2rem 2rem -1rem 0rem;
+     }
+     
+     .inf01 {
+ background-color: #ffffff;
+ padding: 1rem;
+ border-radius: 5rem;
+    }
+
+     .inf02 {
+      background-color: #fff;
+      padding: 1rem;
+      border-radius: 1rem;
+      margin: 1rem 1rem 1rem 2rem;
+      width: 200px;
+      height: 200px;
+      text-align: center;
+          }
+
+    .inf03 {
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 1rem;
+            margin: 1rem 1rem 1rem 2rem;
+            width: 200px;
+            height: 200px;
+                }
+
+     .inf04 {
+         background-color: #fff;
+         padding: 1rem;
+         border-radius: 1rem;
+         margin: 1rem 1rem 1rem 2rem; 
+         width: 200px;
+         height: 200px;
+         text-align: center;
+          }
+
+          .inf05 {
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 1rem;
+            margin: 1rem 1rem 1rem 2rem;
+            width: 200px;
+            height: 200px;
+            text-align: center;
+                }
+
+          .inf06 {
+          background-color: #fff;
+          padding: 1rem;
+          border-radius: 1rem;
+          margin: 1rem 1rem 1rem 2rem;
+          width: 200px;
+          height: 200px;
+                    }
+
+           .inf07 {
+           background-color: #fff;
+           padding: 1rem;
+           border-radius: 1rem;
+           margin: 1rem 1rem 1rem 2rem;
+           width: 200px;
+           height: 200px;
+           text-align: center;
+           }
+
+          .inf08 {
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 1rem;
+            margin: 1rem 1rem 1rem 2rem; 
+            width: 200px;
+            height: 200px;
+            text-align: center;
+               }
+
+               #conteudo {
+                  display: flex;
+                  flex-wrap: wrap;
+                  justify-content: center;
+               }
+
+               footer {
+                background-color: #d883b6;
+                color: #fff;
+                font-size: 1.6rem;
+                text-align: center;
+                margin: -10px;                                   
+                clear: both;
+               }
+
+               h3 {
+                font-size: 1.4rem;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                text-align: center;
+                     }
